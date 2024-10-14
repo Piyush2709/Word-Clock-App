@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/backgroundColor"
+    android:gravity="center">
+
+    <EditText
+        android:id="@+id/cityInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Country/city name"
+        android:padding="12dp"
+        android:textSize="16sp"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/getTimeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get Current Time"
+        android:padding="12dp"
+        android:textSize="16sp"
+        android:background="@color/buttonColor"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/timeResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Current Time will appear here"
+        android:textSize="24sp"
+        android:textColor="@color/textColor"
+        android:layout_marginTop="16dp"
+        android:padding="12dp"
+        android:background="@drawable/text_view_background"/>
+</LinearLayout>
