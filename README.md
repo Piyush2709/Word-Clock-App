@@ -11,6 +11,11 @@ The **World Clock** app is a simple Android application that allows users to inp
 - Simple, user-friendly interface with a search box and results display.
 - Real-time clock update based on the selected location's timezone.
 
+## Screen Shots
+
+![App Home](https://github.com/user-attachments/assets/a9290699-151b-4af3-a6f4-c6895d65377e)
+![App 2](https://github.com/user-attachments/assets/3b5c9b4c-b4aa-4034-a4f5-236e723c18c3)
+![App 3](https://github.com/user-attachments/assets/05697a5c-4b95-4ee7-aa4a-eb49307c3045)
 
 
 ## Getting Started
